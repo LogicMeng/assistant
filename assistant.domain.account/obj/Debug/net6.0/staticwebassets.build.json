@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ACFe9iuCoogkyoADZAsbeTaqSCn8kJxQQoWvBArK68U=",
+  "Source": "assistant.domain.account",
+  "BasePath": "_content/assistant.domain.account",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

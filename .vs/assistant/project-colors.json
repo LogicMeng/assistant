@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "3176471f-7606-437a-bbbc-8eb7bf78baf8": {
+      "ProjectGuid": "3176471f-7606-437a-bbbc-8eb7bf78baf8",
+      "DisplayName": "assistant",
+      "ColorIndex": 0
+    },
+    "928a924c-c554-4c16-bd6b-af8870c8442d": {
+      "ProjectGuid": "928a924c-c554-4c16-bd6b-af8870c8442d",
+      "DisplayName": "assistant.infrastructure.data",
+      "ColorIndex": 1
+    },
+    "beef79e5-37ff-43b6-859f-28621bd0dde0": {
+      "ProjectGuid": "beef79e5-37ff-43b6-859f-28621bd0dde0",
+      "DisplayName": "assistant.domain.account",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "杂项文件",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 3
+}

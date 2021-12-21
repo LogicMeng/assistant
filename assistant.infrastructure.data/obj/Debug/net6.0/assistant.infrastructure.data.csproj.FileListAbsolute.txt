@@ -1,0 +1,12 @@
+D:\Code\dotnet\assistant\assistant.infrastructure.data\bin\Debug\net6.0\assistant.infrastructure.data.deps.json
+D:\Code\dotnet\assistant\assistant.infrastructure.data\bin\Debug\net6.0\assistant.infrastructure.data.dll
+D:\Code\dotnet\assistant\assistant.infrastructure.data\bin\Debug\net6.0\ref\assistant.infrastructure.data.dll
+D:\Code\dotnet\assistant\assistant.infrastructure.data\bin\Debug\net6.0\assistant.infrastructure.data.pdb
+D:\Code\dotnet\assistant\assistant.infrastructure.data\obj\Debug\net6.0\assistant.infrastructure.data.csproj.AssemblyReference.cache
+D:\Code\dotnet\assistant\assistant.infrastructure.data\obj\Debug\net6.0\assistant.infrastructure.data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\dotnet\assistant\assistant.infrastructure.data\obj\Debug\net6.0\assistant.infrastructure.data.AssemblyInfoInputs.cache
+D:\Code\dotnet\assistant\assistant.infrastructure.data\obj\Debug\net6.0\assistant.infrastructure.data.AssemblyInfo.cs
+D:\Code\dotnet\assistant\assistant.infrastructure.data\obj\Debug\net6.0\assistant.infrastructure.data.csproj.CoreCompileInputs.cache
+D:\Code\dotnet\assistant\assistant.infrastructure.data\obj\Debug\net6.0\assistant.infrastructure.data.dll
+D:\Code\dotnet\assistant\assistant.infrastructure.data\obj\Debug\net6.0\ref\assistant.infrastructure.data.dll
+D:\Code\dotnet\assistant\assistant.infrastructure.data\obj\Debug\net6.0\assistant.infrastructure.data.pdb
