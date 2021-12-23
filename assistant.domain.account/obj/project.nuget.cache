@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9LOuKYqoXlqN2sE2qQ7xpyf+YM53+BTriH0cqI4WXZZLhc5fVXbgPZxNWnsdsN1DFmk0JLPZLGr9M/HFW9B09A==",
+  "dgSpecHash": "1UC0S/PGSILi7NBFCNKiPxPZNUrGm63gIbif9DKvhN2CLK20MjcEkLtRfSbs2IxAncCz1ywPK1+vODpDZrlCYg==",
   "success": true,
-  "projectFilePath": "D:\\Code\\assistant\\assistant.domain.account\\assistant.domain.account.csproj",
+  "projectFilePath": "D:\\Code\\dotnet\\assistant\\assistant.domain.account\\assistant.domain.account.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\admin\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\admin\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",

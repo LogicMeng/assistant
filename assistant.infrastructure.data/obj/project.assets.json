@@ -653,11 +653,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Code\\assistant\\assistant.infrastructure.data\\assistant.infrastructure.data.csproj",
+      "projectUniqueName": "D:\\Code\\dotnet\\assistant\\assistant.infrastructure.data\\assistant.infrastructure.data.csproj",
       "projectName": "assistant.infrastructure.data",
-      "projectPath": "D:\\Code\\assistant\\assistant.infrastructure.data\\assistant.infrastructure.data.csproj",
+      "projectPath": "D:\\Code\\dotnet\\assistant\\assistant.infrastructure.data\\assistant.infrastructure.data.csproj",
       "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-      "outputPath": "D:\\Code\\assistant\\assistant.infrastructure.data\\obj\\",
+      "outputPath": "D:\\Code\\dotnet\\assistant\\assistant.infrastructure.data\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
